@@ -1,5 +1,5 @@
 #A Survey of Available Corpora for Building Data-Driven Dialogue Systems
-[1512.05742](https://arxiv.org/abs/1512.05742) 
+[Serban, Iulian Vlad, et al. "A survey of available corpora for building data-driven dialogue systems." arXiv preprint arXiv:1512.05742 (2015).](https://arxiv.org/abs/1512.05742) 
 
 Обзор доступных корпусов + обзор corpus-based подходов для построения  диалоговых систем.
 
